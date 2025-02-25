@@ -1,4 +1,14 @@
-## Hi there 👋
+## Welcome, my current and future partners!
+
+I have a doctorate in Statistics and Policy with a healthy appetite for lifelong learning. Creative quantitative and qualitative approaches to understanding the world and communicating that understanding through data visualization are my bread and butter. I am pursuing a GIS certificate as a venue for data storytelling. There's a lot left to do to make the world a better place. If there's a way I can use my skills to improve my corner of it, count me in! 
+
+I primarily code in Python but can defend myself in R, Java/HTML, SQL, and SAS. I'm fluent in Stata but rarely use it these days. 
+
+My human languages are English and Spanish. Dime en qué te gustaría colaborar. 
+
+At the moment, my goal is to harvest and use publicly available US data to help people before those resources disappear. It's urgent. I welcome your partnership.
+
+
 
 <!--
 **Havala-Hanson/Havala-Hanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
